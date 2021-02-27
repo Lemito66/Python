@@ -8,4 +8,3 @@ elif numero_dos >numero_uno:
 else:
     print("Los numero son iguales")
 
-    
