@@ -1,4 +1,4 @@
-libras=input("Ingresa tus libras")
+libras=int(input("Ingresa tus libras"))
 cambio=float(1.35)
 
 cambioTotal=libras*cambio
