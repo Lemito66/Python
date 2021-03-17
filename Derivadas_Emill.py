@@ -24,7 +24,7 @@ def Funcion(x,orden,deltaX):
     
 def funcion_Evaluar(x):
     y=0
-    y=2*x**4
+    y=9*x**3
     return y
 
 x=float(input("Ingrese el numero el valor de x: \n"))
